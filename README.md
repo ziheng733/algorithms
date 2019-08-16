@@ -66,5 +66,5 @@ O:表示代码的执行时间T(n)与f(n)表达式成正比
 
 
 ## 参考学习
-+ 极客时间https://time.geekbang.org，《数据结构与算法之美》
++ 极客时间《数据结构与算法之美》https://time.geekbang.org
 + 《算法导论》
