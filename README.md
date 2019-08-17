@@ -6,7 +6,7 @@
 ![知识点脑图](src/main/resources/img/all.jpg)
 
 # 数据结构
-+ 数组
++ [数组](array)
 + 链表
 + 栈
 + 队列
