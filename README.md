@@ -4,7 +4,8 @@
 + 算法要作用在特定的数据结构之上
 
 # lintCode解题
-+ [37.反转一个3位整数](src/main/java/com/ziheng733/algorithms/lintcode/NumReverseHelper.java)
++ 入门 - [37.反转一个3位整数](src/main/java/com/ziheng733/algorithms/lintcode/NumReverseHelper.java)
++ 入门 - [145.146.大小写转换](src/main/java/com/ziheng733/algorithms/lintcode/CaseConversion.java)
 
 
 # 数据结构
