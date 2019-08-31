@@ -3,8 +3,9 @@
 + 数据结构是为算法服务的  
 + 算法要作用在特定的数据结构之上
 
-# 问题与实践
-+ [如果字符串是通过单链表存储的，那如何判断是否是一个回文串]()
+# lintCode解题
++ [37.反转一个3位整数](src/main/java/com/ziheng733/algorithms/lintcode/NumReverseHelper.java)
+
 
 # 数据结构
 + [数组](array)
