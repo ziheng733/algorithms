@@ -1,5 +1,8 @@
 # 链表linkedlist
 
+## 实现
++ [java实现](https://github.com/ziheng733/algorithms/blob/master/src/main/java/com/ziheng733/algorithms/linkedlist/SingleLinkedList.java)
+
 ## 概述
 + 内存分布：通过“指针”把一组零散的内存块串联起来使用
 ![链表内存分布](img/linkedlist_mem.jpg)
