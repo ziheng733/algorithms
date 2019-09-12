@@ -8,7 +8,8 @@ package com.ziheng733.algorithms.lintcode;
 public class CaseConversion {
 
 	/**
-	 * 将一个字符由小写字母转换为大写字母
+	 * 145. 大小写转换
+	 * 
 	 * @param c  : a ~ z
 	 * @return A ~ Z
 	 */
@@ -20,7 +21,8 @@ public class CaseConversion {
 	}
 
 	/**
-	 * 讲一个字符由大写字母转换为小写字母
+	 * 145. 大小写转换
+	 * 
 	 * @param c : A ~ Z
 	 * @return a ~ z
 	 */

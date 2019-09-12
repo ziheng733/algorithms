@@ -8,7 +8,7 @@ package com.ziheng733.algorithms.lintcode;
 public class NumReverseHelper {
 
 	/**
-	 * 反转3位整数
+	 * 37. 反转一个3位整数
 	 * @param num
 	 * @return
 	 */
