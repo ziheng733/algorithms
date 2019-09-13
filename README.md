@@ -7,6 +7,7 @@
 + 入门 - [37.反转一个3位整数](src/main/java/com/ziheng733/algorithms/lintcode/NumReverseHelper.java)
 + 入门 - [145.146.大小写转换](src/main/java/com/ziheng733/algorithms/lintcode/CaseConversion.java)
 + 入门 - [283.三数之中的最大值](src/main/java/com/ziheng733/algorithms/lintcode/NumCompareHelper.java)
++ 入门 - [366. 斐波纳契数列](src/main/java/com/ziheng733/algorithms/lintcode/Fibonacci.java)
 
 
 # 数据结构
